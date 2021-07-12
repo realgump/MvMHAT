@@ -3,9 +3,9 @@
 - A self-supervised learning framework for MvMHAT.
 - A new benchmark for training and testing MvMHAT.
 
-![](https://github.com/realgump/MvMHAT/blob/main/readme/PDF%20coming%20soon)
+![](https://github.com/realgump/MvMHAT/blob/main/readme/1.jpg)
 
-> [**Self-supervised Multi-view Multi-Human Association and Tracking**](https://github.com/realgump/MvMHAT),            
+> [**Self-supervised Multi-view Multi-Human Association and Tracking**](https://github.com/realgump/MvMHAT/blob/main/readme/PDF%20coming%20soon),            
 > Yiyang Gan, Ruize Han, Liqiang Yin, Wei Feng, Song Wang     
 
 
