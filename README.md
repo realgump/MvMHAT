@@ -1,12 +1,12 @@
-# MvMHAT
-**MvMHAT**: Multi-view Multi-Human Association and Tracking (appearing in ACM MM 2021)
+# MvMHAT: Multi-view Multi-Human Association and Tracking
+
+> [**Self-supervised Multi-view Multi-Human Association and Tracking**](https://github.com/realgump/MvMHAT/blob/main/readme/PDF%20coming%20soon),            
+> Yiyang Gan, Ruize Han, Liqiang Yin, Wei Feng, Song Wang
+
 - A self-supervised learning framework for MvMHAT.
 - A new benchmark for training and testing MvMHAT.
 
 ![](https://github.com/realgump/MvMHAT/blob/main/readme/1.jpg)
-
-> [**Self-supervised Multi-view Multi-Human Association and Tracking**](https://github.com/realgump/MvMHAT/blob/main/readme/PDF%20coming%20soon),            
-> Yiyang Gan, Ruize Han, Liqiang Yin, Wei Feng, Song Wang     
 
 
 ## Abstract
@@ -15,7 +15,7 @@ Multi-human association and tracking (MHAT) with multi-view cameras, aims to tra
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
 
-    @inproceedings{gan2021self,
+    @inproceedings{gan2021mvmhat,
       title={Self-supervised Multi-view Multi-Human Association and Tracking},
       author={Yiyang Gan, Ruize Han, Liqiang Yin, Wei Feng, Song Wang},
       booktitle={ACM MM},
