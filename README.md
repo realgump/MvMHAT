@@ -6,6 +6,8 @@
 - A self-supervised learning framework for MvMHAT.
 - A new benchmark for training and testing MvMHAT.
 
+Contact: [realgump@tju.edu.cn](realgump@tju.edu.cn). Any questions or discussions are welcomed! 
+
 ![](https://github.com/realgump/MvMHAT/blob/main/readme/1.jpg)
 
 
