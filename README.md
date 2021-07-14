@@ -26,5 +26,7 @@ If you find this project useful for your research, please use the following BibT
       year={2021}
     }
 
+## References
+Portions of the code are borrowed from [deep-sort](https://github.com/nwojke/deep_sort), thanks for their great work.
 
 **More information is coming soon ...**
