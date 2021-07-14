@@ -16,6 +16,35 @@ Multi-human association and tracking (MHAT) with multi-view cameras, aims to tra
 
 ![](https://github.com/realgump/MvMHAT/blob/main/readme/2.jpg)
 
+## Install
+The code was tested on Ubuntu 16.04, with Anaconda Python 3.6 and PyTorch v1.7.1. NVIDIA GPUs are needed for both training and testing. After install Anaconda:
+0. [Optional but recommended] create a new conda environment：
+~~~
+   conda create -n MVMHAT python=3.6
+~~~
+And activate the environment:
+~~~
+   conda activate MVMHAT
+~~~
+1. Install pytorch:
+~~~
+   conda install pytorch=1.7.1 torchvision -c pytorch
+~~~
+2. Clone the repository:
+~~~
+   MVMHAT_ROOT=/path/to/clone/MVMHAT
+   git clone https://github.com/realgump/MvMHAT.git $MVMHAT_ROOT
+~~~
+3. Install the requirements:
+~~~
+   pip install -r requirements.txt
+~~~
+4. Download the pretrained model to promote convergence:
+~~~
+   cd $MVMHAT_ROOT/model
+   wget https://download.pytorch.org/models/resnet50-19c8e357.pth
+~~~
+
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
 
