@@ -41,7 +41,7 @@ And activate the environment:
 ~~~
 4. Download the pretrained model to promote convergence:
 ~~~
-   cd $MVMHAT_ROOT/model
+   cd $MVMHAT_ROOT/models
    wget https://download.pytorch.org/models/resnet50-19c8e357.pth
 ~~~
 
