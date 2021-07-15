@@ -18,6 +18,7 @@ Multi-human association and tracking (MHAT) with multi-view cameras, aims to tra
 
 ## Install
 The code was tested on Ubuntu 16.04, with Anaconda Python 3.6 and PyTorch v1.7.1. NVIDIA GPUs are needed for both training and testing. After install Anaconda:
+
 0. [Optional but recommended] create a new conda environment：
 ~~~
    conda create -n MVMHAT python=3.6
