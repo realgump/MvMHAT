@@ -1,6 +1,6 @@
 # MvMHAT: Multi-view Multi-Human Association and Tracking
 
-> [**Self-supervised Multi-view Multi-Human Association and Tracking**](https://github.com/realgump/MvMHAT/blob/main/readme/PDF%20coming%20soon),            
+> [**Self-supervised Multi-view Multi-Human Association and Tracking**](https://www.researchgate.net/profile/Ruize-Han/publication/353819964_Self-supervised_Multi-view_Multi-Human_Association_and_Tracking/links/611356961ca20f6f8613727d/Self-supervised-Multi-view-Multi-Human-Association-and-Tracking.pdf),            
 > Yiyang Gan, Ruize Han, Liqiang Yin, Wei Feng, Song Wang
 
 - A self-supervised learning framework for MvMHAT.
