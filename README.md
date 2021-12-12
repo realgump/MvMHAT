@@ -46,6 +46,13 @@ And activate the environment:
    wget https://download.pytorch.org/models/resnet50-19c8e357.pth -O pretrained.pth
 ~~~
 
+## Dataset 
+1. Self-collected video:
+~~~
+Link：https://pan.baidu.com/s/1gsYTHffmfRq84Hn-8XtzDQ 
+Password：2cfh
+~~~ 
+
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
 
