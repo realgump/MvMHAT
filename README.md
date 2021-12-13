@@ -47,11 +47,23 @@ And activate the environment:
 ~~~
 
 ## Dataset 
-1. Self-collected video:
+1. Self-collected video & label:
 ~~~
 Link：https://pan.baidu.com/s/1gsYTHffmfRq84Hn-8XtzDQ 
 Password：2cfh
 ~~~ 
+
+2. Campus video & label:
+~~~
+Link: https://pan.baidu.com/s/1Ts6xnESH-9UV8goiTrSuwQ 
+Password: 8sg9
+~~~
+
+3. EPFL video & label:
+~~~
+Link: https://pan.baidu.com/s/1G84npt61rYDUEPqnaHJUlg 
+Password: jjaw 
+~~~
 
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
@@ -62,8 +74,10 @@ If you find this project useful for your research, please use the following BibT
       booktitle={ACM MM},
       year={2021}
     }
+ 
 
 ## References
-Portions of the code are borrowed from [Deep SORT](https://github.com/nwojke/deep_sort), thanks for their great work.
+- Portions of the code are borrowed from [Deep SORT](https://github.com/nwojke/deep_sort), thanks for their great work.
+- Portions of the videos are borrowed from [Campus](http://web.cs.ucla.edu/~yuanluxu/research/mv_track.html) and [EPFL](https://www.epfl.ch/labs/cvlab/data/data-pom-index-php/), thanks for their contributions.
 
 **More information is coming soon ...**
