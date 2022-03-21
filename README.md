@@ -48,28 +48,29 @@ And activate the environment:
 
 ## Dataset 
 1. Self-collected video & label:
-~~~
-Link：https://pan.baidu.com/s/1gsYTHffmfRq84Hn-8XtzDQ 
-Password：2cfh
-~~~ 
+
+- Link: [Baidu Netdisk](https://pan.baidu.com/s/1gsYTHffmfRq84Hn-8XtzDQ)
+ 
+- Password：2cfh
 
 2. Campus video & label:
-~~~
-Link: https://pan.baidu.com/s/1Ts6xnESH-9UV8goiTrSuwQ 
-Password: 8sg9
-~~~
+
+- Link: [Baidu Netdisk](https://pan.baidu.com/s/1Ts6xnESH-9UV8goiTrSuwQ)
+
+- Password: 8sg9
+
 
 3. EPFL video & label:
-~~~
-Link: https://pan.baidu.com/s/1G84npt61rYDUEPqnaHJUlg 
-Password: jjaw 
-~~~
+ 
+- Link: [Baidu Netdisk](https://pan.baidu.com/s/1G84npt61rYDUEPqnaHJUlg)
 
-[new] The complete dataset is also available via:
-~~~
-Link: [OneDrive] (https://tjueducn-my.sharepoint.com/:f:/g/personal/han_ruize_tju_edu_cn/EuYKZsvYBvFBvewQPdjvRIoB20iQfMNr_c7_fMDXFRZ7uw?e=19rwJF)
-Password: MvMHAT
-~~~
+- Password: jjaw 
+
+4. [NEW] The complete dataset is also available via:
+
+- Link: [OneDrive](https://tjueducn-my.sharepoint.com/:f:/g/personal/han_ruize_tju_edu_cn/EuYKZsvYBvFBvewQPdjvRIoB20iQfMNr_c7_fMDXFRZ7uw?e=19rwJF)
+
+- Password: MvMHAT
 
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
