@@ -1,0 +1,10 @@
+name
+V0-S_canteen_0-G_1_hor
+V0-S_canteen_2-G_1_hor
+V0-S_canteen_0-G_3_hor
+V0-S_canteen_1-G_3_hor
+V0-S_canteen_2-G_3_hor
+V1-S_library-G_1_hor
+V1-S_library-G_3_hor
+V1-S_square-G_3_hor
+V1-S_square-G_1_hor
